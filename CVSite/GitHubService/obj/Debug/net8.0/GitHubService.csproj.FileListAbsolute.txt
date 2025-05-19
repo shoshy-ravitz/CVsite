@@ -1,0 +1,12 @@
+C:\Users\user1\Desktop\פרקטי קוד\cv site\CVSite\GitHubService\bin\Debug\net8.0\GitHubService.deps.json
+C:\Users\user1\Desktop\פרקטי קוד\cv site\CVSite\GitHubService\bin\Debug\net8.0\GitHubService.dll
+C:\Users\user1\Desktop\פרקטי קוד\cv site\CVSite\GitHubService\bin\Debug\net8.0\GitHubService.pdb
+C:\Users\user1\Desktop\פרקטי קוד\cv site\CVSite\GitHubService\obj\Debug\net8.0\GitHubService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרקטי קוד\cv site\CVSite\GitHubService\obj\Debug\net8.0\GitHubService.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרקטי קוד\cv site\CVSite\GitHubService\obj\Debug\net8.0\GitHubService.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרקטי קוד\cv site\CVSite\GitHubService\obj\Debug\net8.0\GitHubService.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרקטי קוד\cv site\CVSite\GitHubService\obj\Debug\net8.0\GitHubService.dll
+C:\Users\user1\Desktop\פרקטי קוד\cv site\CVSite\GitHubService\obj\Debug\net8.0\refint\GitHubService.dll
+C:\Users\user1\Desktop\פרקטי קוד\cv site\CVSite\GitHubService\obj\Debug\net8.0\GitHubService.pdb
+C:\Users\user1\Desktop\פרקטי קוד\cv site\CVSite\GitHubService\obj\Debug\net8.0\ref\GitHubService.dll
+C:\Users\user1\Desktop\פרקטי קוד\cv site\CVSite\GitHubService\obj\Debug\net8.0\GitHubService.csproj.AssemblyReference.cache

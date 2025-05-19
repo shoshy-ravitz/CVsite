@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVSiteAPI", "CVSiteAPI\CVSiteAPI.csproj", "{AB55FBF0-D194-4470-9C94-B33083AB3834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubService", "GitHubService\GitHubService.csproj", "{284B49CE-8734-4CD0-ADE8-6CFF3DBE69CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB55FBF0-D194-4470-9C94-B33083AB3834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB55FBF0-D194-4470-9C94-B33083AB3834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB55FBF0-D194-4470-9C94-B33083AB3834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB55FBF0-D194-4470-9C94-B33083AB3834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284B49CE-8734-4CD0-ADE8-6CFF3DBE69CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284B49CE-8734-4CD0-ADE8-6CFF3DBE69CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284B49CE-8734-4CD0-ADE8-6CFF3DBE69CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284B49CE-8734-4CD0-ADE8-6CFF3DBE69CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

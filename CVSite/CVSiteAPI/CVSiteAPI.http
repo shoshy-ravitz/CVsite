@@ -1,0 +1,6 @@
+@CVSiteAPI_HostAddress = http://localhost:5024
+
+GET {{CVSiteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
